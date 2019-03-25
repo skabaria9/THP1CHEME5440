@@ -4,6 +4,8 @@ At times, julia files are referred to. Julia files contain the actual parameter 
 All algoritms are included in the julia files.
 All units are described in the julia files. 
 
+Many of the julia files reference each other (there are subfunction.) To successfully run the files, download all of them and keep them in the same directory.
+
 Problem 1 = derivation in pdf
 
 Problem 2 = "ps2" julia files
