@@ -1,9 +1,14 @@
-Please see the pdf file for all instructions for where relavent information is stored
+Please see the pdf file for all instructions for where relavent solutions are stored. 
+Most assumptions / solutions / explanations are included in the pdf file. 
+At times, julia files are referred to. Julia files contain the actual parameter values and some more detailed calculations than are described in the pdf.
+All algoritms are included in the julia files.
+All units are described in the julia files. 
 
 Problem 1 = derivation in pdf
 
 Problem 2 = "ps2" julia files
 *Screenshot of graphs for problem 2a 
+*csv files for 2b N sensitivity matrices
 
 Problem 3 = "ps3" julia files 
 *Screenshot of graphs for 3b
