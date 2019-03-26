@@ -15,7 +15,7 @@ using PyPlot
 #Given Information
 L_p= 308; #AA, length protein
 L_g = 924; #nt, length gene
-gene_conc = 5; #uM
+gene_conc = 5e-3; #uM
 rxn_volume = 15; #uL
 R_X = 0.15; #uM
 R_L = 1.6; #uM
